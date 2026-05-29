@@ -1,0 +1,3 @@
+interface libraryhelper {
+    void booksborrowed();
+}
